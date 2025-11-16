@@ -1,0 +1,1 @@
+A streamlit based personal cashflow projection app for tracking regular incomes and bills.
